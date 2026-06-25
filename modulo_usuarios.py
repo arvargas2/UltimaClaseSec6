@@ -42,3 +42,14 @@ def imprimir_usuario(usuario):
 
 
 # ------- transacciones ----------------------
+def agregar_usuario():
+    pass
+
+def buscar_usuario():
+    # se busca por el nombre de usuario
+    pass
+
+def eliminar_usuario():
+    # se busca por el nombre de usuario
+    # si se encuentra se elimina!!!!
+    pass
